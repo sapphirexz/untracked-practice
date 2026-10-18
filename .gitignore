@@ -1,0 +1,5 @@
+# ignore actual .env but track templates
+.env
+# ignore huge fronted dependency packages and logs
+node_modules/
+*.log
